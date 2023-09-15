@@ -1,2 +1,2 @@
-# Portfolio-Database-management-system
+# Database management system
 Private Database management system developed with Java
